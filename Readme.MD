@@ -10,7 +10,7 @@ Um **Sistema de Gestão de Pedidos** desenvolvido com **Spring Boot**, **Redis**
     - Processamento em lote de pedidos pendentes.
     - Validação e tratamento de erros para pedidos com falhas.
 - **APIs**:
-    - APIs RESTful para listar, criar e atualizar pedidos.
+    - API RESTful para listar pedidos.
 - **Integração**:
     - Mensageria com RabbitMQ para processamento assíncrono.
     - Redis para cache e deduplicação.
